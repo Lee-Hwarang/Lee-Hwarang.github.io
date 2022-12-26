@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: https://lee-hwarang.github.io
+    url: https://lee-hwarang.github.io/
 
   - title: "About"
     url: /about/
@@ -17,10 +17,6 @@ main:
 
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
-categories:
-   - title: "Title1"
-    children:
-      - title: "Categories1"
-        url: /categories/categories1/
-      - title: "Categories2"
-        url: /categories/categories2/
+	categories:
+  - title: "Categories1"
+    url: /categories/categories1/
