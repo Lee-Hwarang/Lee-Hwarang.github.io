@@ -1,7 +1,10 @@
-## 🦥 `Minimal Mistakes theme customized by choiiis`
+HwaRang's Blog🍀
 
-📎 **블로그 바로 가기**
-[`https://choiiis.github.io/`](https://choiiis.github.io/)
+https://lee-hwarang.github.io/
+
+
+
+## 🦥 `Minimal Mistakes theme customized by choiiis`
 
 ---
 
