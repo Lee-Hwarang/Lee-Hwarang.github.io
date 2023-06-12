@@ -19,10 +19,10 @@ main:
 # 2022.02.15 sidebar update : simple ver.
 categories:
   - title: "SeSAC"
-    url: /categories/category-SeSAC/
-
-  - title: "SeSAC copy"
-    url: /categories/category-SeSAC copy/
-
-
- 
+    url: /categories/categories1/
+  - title: "Categories2"
+    url: /categories/categories2/
+  - title: "Categories3"
+    url: /categories/categories3/
+  - title: "Categories4"
+    url: /categories/categories4/
