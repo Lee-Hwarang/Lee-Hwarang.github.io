@@ -14,8 +14,8 @@ main:
 
 # sidebar navigation (categories)
 categories:
-  - title: "[SeSac]"
-    url: /categories/categories1/
+  - title: "SeSac"
+    url: /categories/category-SeSAC/
 
 
 
