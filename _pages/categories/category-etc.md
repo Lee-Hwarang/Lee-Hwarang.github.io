@@ -1,7 +1,7 @@
 ---
-title: "SeSAC copy"
+title: "SeSAC"
 layout: category
-permalink: /categories/category-SeSAC copy/
+permalink: /categories/category-SeSAC/
 author_profile: true
 taxonomy: category
 sidebar:
