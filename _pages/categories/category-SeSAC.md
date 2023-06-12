@@ -1,9 +1,9 @@
 ---
 title: "SeSAC"
 layout: category
-permalink: /categories/categories1/
+permalink: /categories/category-SeSAC/
 author_profile: true
-taxonomy: categories1
+taxonomy: category-SeSAC
 sidebar:
   nav: "categories"
 ---
