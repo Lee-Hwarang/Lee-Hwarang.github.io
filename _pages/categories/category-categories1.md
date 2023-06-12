@@ -1,9 +1,9 @@
 ---
-title: "Categories1"
+title: "[SeSac]"
 layout: category
 permalink: /categories/categories1/
 author_profile: true
-taxonomy: Categories1
+taxonomy: categories1
 sidebar:
   nav: "categories"
 ---
