@@ -12,8 +12,11 @@ main:
   # - title: "Projects"
   #   url: /projects/
 
-  # - title: "Categories"
-  #   url: /categories/
-
 # sidebar navigation (categories)
+categories:
+  - title: "[SeSac]"
+    url: /categories/categories1/
+
+
+
 # 2022.02.15 sidebar update : simple ver.
